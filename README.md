@@ -10,6 +10,7 @@ Thank you for considering contributing to CS-Guilan-Uni-Archive!
 ## Hall of Fame
 Our Hall of Fame recognizes outstanding contributors who have made significant contributions to our project <3.
  - [GuilanCSJozve](https://t.me/GuilanCSJozve)
+ - Matin
 
 ## Change Logs
 Our change log keeps track of all modifications made to the project. Check back here for the latest updates.
