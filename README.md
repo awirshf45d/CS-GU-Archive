@@ -10,10 +10,14 @@ Thank you for considering contributing to CS-Guilan-Uni-Archive.
 ## Hall of Fame
 Our Hall of Fame recognizes outstanding contributors who have made significant contributions to our project <3.
  - [GuilanCSJozve](https://t.me/GuilanCSJozve)
- - Matin
+ - Mtin
+ - [CS-Astronaut](https://github.com/CS-Astronaut)
 
 ## Change Logs
 Our change log keeps track of all modifications made to the project. Check back here for the latest updates.
+### 2024-09-29
+- The project has been archived, and I will no longer be maintaining it.
+
 ### 2024-07-17
 - [AI](https://github.com/awirshf45d/CS-GU-Archive/tree/main/Artificial%20Intelligence%20(%D8%A7%D8%B3%D8%AA%D8%A7%D8%AF%20%D8%A7%D8%B3%DA%A9%D9%86%D8%AF%D8%B1%DB%8C))
 - [BP](https://github.com/awirshf45d/CS-GU-Archive/tree/main/Basic%20Programming)
