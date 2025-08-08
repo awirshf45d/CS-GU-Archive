@@ -1,5 +1,5 @@
 # CS-GU-Archive
-> on [Telegram](https://t.me/CSGUArchive)
+> [Telegram Channel](https://t.me/CSGUArchive)
 ## Contributing
 You can contribute in two ways:
 - Send a message or files to [ME](https://t.me/awirsh2b3c?text=CS-GU-Archive%0a)
